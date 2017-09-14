@@ -1,0 +1,22 @@
+{
+  "name": "Js",
+  "version": "1.0.0",
+  "description": "this is my first Json projects",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "devDependencies": {
+    "karma": "~0.13",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-html-reporter": "^0.2.7"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
